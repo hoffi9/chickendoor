@@ -1,4 +1,5 @@
 Die Tür soll helligkeitsgesteuert öffnen und schließen
+Der Schwellwert für die Helligkeit für öffnen und schließen muss unabhängig voneinander festlegbar sein.
 Die Helligkeitsmessung muss alle 15min erfolgen (Energiesparen)
 Das System soll mit Batterie oder Akku laufen (keine Netzanbindung)
 Mit einer Akku/Batterieladung muss das System mind. 2Wochen lauffähig sein
